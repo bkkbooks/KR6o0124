@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6o0124/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 那先比丘經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1670A.xml
+    old_id: T32n1670A
+hash: sha256:992ebec24cdf74e8fb5a354ca3b3896151b7bacd1b0d1c2821de950dec6f1d88

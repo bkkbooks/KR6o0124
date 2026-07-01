@@ -1,0 +1,57 @@
+canonical_identifier: bkk:krp/KR6o0124/v1
+canonical_location: https://kanripo.org/bkk/KR6o0124/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 那先比丘經
+  identifiers:
+    alt_id:
+    - T32n1670A
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1670A.xml
+    old_id: T32n1670A
+  edition:
+    short: bkk
+editions:
+- short: 聖
+  label: 聖
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0124_000.yaml, hash: 'sha256:992ebec24cdf74e8fb5a354ca3b3896151b7bacd1b0d1c2821de950dec6f1d88'}
+  - {seq: 1, filename: KR6o0124_001.yaml, hash: 'sha256:13d15be1cc8901bd1fc41deaa8f87dc7142c1cdc9db6b2ad0b885db69e088c21'}
+  - {seq: 2, filename: KR6o0124_002.yaml, hash: 'sha256:848767832b4cb545142fbb76f19b65ca6c0e463e6abd9fed04587786e3d923c7'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6o0124_001.markers.yaml, hash: 'sha256:41125062881c8a403dfe8cfc68f9eb22852bfac50fe6256a95cad42e7e58c114'}
+  - {seq: 2, role: markers, filename: assets/KR6o0124_002.markers.yaml, hash: 'sha256:382c741eaba4658b7e1ebaee98e3933e2cd3d64b57b8956e336b93c7f0f1c343'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6o0124_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7046
+  label: 那先比丘經卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6o0124_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6678
+  label: 那先比丘經卷下
+  type: juan
+  level: 1
+hash: sha256:97fd59705df3d1bf2558ad5034743729ee243a88978d76d18ec46d9b6560213f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
