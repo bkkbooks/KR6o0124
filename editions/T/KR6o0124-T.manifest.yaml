@@ -23,7 +23,7 @@ assets:
   - {seq: 1, filename: KR6o0124_001-T.yaml, hash: 'sha256:33e4d45bfb1948c67093d6070aaf2367b856344afc6cd677f5a5c7a8c33305ad'}
   - {seq: 2, filename: KR6o0124_002-T.yaml, hash: 'sha256:92095977ea0d35ec19eb989d527e94b0fbb805f7ae3357b43e0ec9a975d2e8a7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6o0124_000-T.markers.yaml, hash: 'sha256:30140c4609b224d965a06a9e6e668fc734ff80dcf5f43945664f71edbe9b6fad'}
+  - {seq: 0, role: markers, filename: assets/KR6o0124_000-T.markers.yaml, hash: 'sha256:14792abb8dd9c8c5c39b346b3674d78435359e3f1417bf3c0d558d6066bc6176'}
   - {seq: 1, role: markers, filename: assets/KR6o0124_001-T.markers.yaml, hash: 'sha256:389998a5b25e8e45c7bdde2aa2f1280f6a6cf5507249c6d4c3ef3930bdea3568'}
   - {seq: 2, role: markers, filename: assets/KR6o0124_002-T.markers.yaml, hash: 'sha256:3976c06f4f464a90624e1fa2a2a377f731441887da3f82e03b2acbe5b0a03be4'}
 table_of_contents:
@@ -47,4 +47,4 @@ table_of_contents:
   label: 那先比丘經卷下
   type: juan
   level: 1
-hash: sha256:28c1e5d8e5e18f0964045219f03f70801c389ee02c6e05cc0197412fee8d4f3f
+hash: sha256:35d7c7ff68296e301a5c2022425fca500f3afa259b93a7ca8dae7c774ff728ad
